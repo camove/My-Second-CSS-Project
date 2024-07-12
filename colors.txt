@@ -1,0 +1,12 @@
+font-family: "Open Sans";
+
+#000000; 
+#ffffff;
+#3065f8;
+#5c87ff;
+#bfbfbf;
+#070439;
+#f8f8fe;
+#3c9f8f;
+#585989;
+#3065f8;
